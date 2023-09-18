@@ -13,7 +13,7 @@
  
      ABOUT ME
  
- - :telescope: I'm currently working maintaining backend for МуминТроллет AB along with developing gods true progamming language.
+ - :telescope: I'm currently working maintaining backend for Муми-тролли AB along with developing gods true progamming language.
 
 - :seedling: Exploring the depths of insanity.
 
